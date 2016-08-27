@@ -12,3 +12,5 @@ D:\Swati\PIS GPRS\GPRSClient\GPRSClient\obj\Debug\GPRSClient.ucUploadFile.resour
 D:\Swati\PIS GPRS\GPRSClient\GPRSClient\obj\Debug\GPRSClient.csproj.GenerateResource.Cache
 D:\Swati\PIS GPRS\GPRSClient\GPRSClient\obj\Debug\GPRSClient.exe
 D:\Swati\PIS GPRS\GPRSClient\GPRSClient\obj\Debug\GPRSClient.pdb
+F:\GITDocs\GPRSClient\GPRSClient\GPRSClient\obj\Debug\GPRSClient.exe
+F:\GITDocs\GPRSClient\GPRSClient\GPRSClient\obj\Debug\GPRSClient.pdb
