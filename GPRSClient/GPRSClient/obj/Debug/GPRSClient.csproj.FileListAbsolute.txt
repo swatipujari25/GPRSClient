@@ -1,0 +1,14 @@
+D:\Swati\PIS GPRS\GPRSClient\GPRSClient\bin\Debug\GPRSClient.exe
+D:\Swati\PIS GPRS\GPRSClient\GPRSClient\bin\Debug\GPRSClient.pdb
+D:\Swati\PIS GPRS\GPRSClient\GPRSClient\obj\Debug\ResolveAssemblyReference.cache
+D:\Swati\PIS GPRS\GPRSClient\GPRSClient\obj\Debug\GPRSClient.Client.resources
+D:\Swati\PIS GPRS\GPRSClient\GPRSClient\obj\Debug\GPRSClient.ClientReady.resources
+D:\Swati\PIS GPRS\GPRSClient\GPRSClient\obj\Debug\GPRSClient.Main.resources
+D:\Swati\PIS GPRS\GPRSClient\GPRSClient\obj\Debug\GPRSClient.Properties.Resources.resources
+D:\Swati\PIS GPRS\GPRSClient\GPRSClient\obj\Debug\GPRSClient.ucCommunication.resources
+D:\Swati\PIS GPRS\GPRSClient\GPRSClient\obj\Debug\GPRSClient.ucConnectToPort.resources
+D:\Swati\PIS GPRS\GPRSClient\GPRSClient\obj\Debug\GPRSClient.ucGPRSConnect.resources
+D:\Swati\PIS GPRS\GPRSClient\GPRSClient\obj\Debug\GPRSClient.ucUploadFile.resources
+D:\Swati\PIS GPRS\GPRSClient\GPRSClient\obj\Debug\GPRSClient.csproj.GenerateResource.Cache
+D:\Swati\PIS GPRS\GPRSClient\GPRSClient\obj\Debug\GPRSClient.exe
+D:\Swati\PIS GPRS\GPRSClient\GPRSClient\obj\Debug\GPRSClient.pdb
