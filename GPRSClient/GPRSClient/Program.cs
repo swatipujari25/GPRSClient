@@ -17,6 +17,8 @@ namespace GPRSClient
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Main());
 
+            ///////comments testing
+
         }
     }
 }

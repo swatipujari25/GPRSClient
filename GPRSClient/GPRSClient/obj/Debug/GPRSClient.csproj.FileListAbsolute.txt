@@ -14,3 +14,13 @@ D:\Swati\PIS GPRS\GPRSClient\GPRSClient\obj\Debug\GPRSClient.exe
 D:\Swati\PIS GPRS\GPRSClient\GPRSClient\obj\Debug\GPRSClient.pdb
 F:\GITDocs\GPRSClient\GPRSClient\GPRSClient\obj\Debug\GPRSClient.exe
 F:\GITDocs\GPRSClient\GPRSClient\GPRSClient\obj\Debug\GPRSClient.pdb
+F:\GITDocs\GPRSClient\GPRSClient\GPRSClient\obj\Debug\ResolveAssemblyReference.cache
+F:\GITDocs\GPRSClient\GPRSClient\GPRSClient\obj\Debug\GPRSClient.Client.resources
+F:\GITDocs\GPRSClient\GPRSClient\GPRSClient\obj\Debug\GPRSClient.ClientReady.resources
+F:\GITDocs\GPRSClient\GPRSClient\GPRSClient\obj\Debug\GPRSClient.Main.resources
+F:\GITDocs\GPRSClient\GPRSClient\GPRSClient\obj\Debug\GPRSClient.Properties.Resources.resources
+F:\GITDocs\GPRSClient\GPRSClient\GPRSClient\obj\Debug\GPRSClient.ucCommunication.resources
+F:\GITDocs\GPRSClient\GPRSClient\GPRSClient\obj\Debug\GPRSClient.ucConnectToPort.resources
+F:\GITDocs\GPRSClient\GPRSClient\GPRSClient\obj\Debug\GPRSClient.ucGPRSConnect.resources
+F:\GITDocs\GPRSClient\GPRSClient\GPRSClient\obj\Debug\GPRSClient.ucUploadFile.resources
+F:\GITDocs\GPRSClient\GPRSClient\GPRSClient\obj\Debug\GPRSClient.csproj.GenerateResource.Cache
